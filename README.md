@@ -42,4 +42,4 @@ To see balances converted to EUR instead of USD:
 python balance.py wallets.json --fiat EUR
 ```
 
-<!-- last-checked: 2026-10-23 -->
+<!-- last-checked: 2026-10-24 -->
